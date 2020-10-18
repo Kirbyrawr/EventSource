@@ -1,0 +1,24 @@
+{
+  "name": "com.kirbyrawr.launchdarkly.eventsource",
+  "version": "3.3.2",
+  "displayName": "LaunchDarkly.EventSource",
+  "description": "This is a package that contains the 'LaunchDarkly.EventSource' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'LaunchDarkly.EventSource'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "launchdarkly",
+    "eventsource",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/LaunchDarkly.EventSource.git"
+  },
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
