@@ -1,5 +1,5 @@
 # LaunchDarkly.EventSource
-- License: MIT
+- License: Apache 2.0
 - Authors:
   - LaunchDarkly (Library / Code)
   - Kirbyrawr (Unity Package)
